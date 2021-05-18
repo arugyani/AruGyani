@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Aru! 
+![Profile View Counter](https://komarev.com/ghpvc/?username=AruGyani&color=blue&label=Profile+Views)
 
-<!--
-**AruGyani/AruGyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science at UT Dallas and an Artificial Intelligence Intern at Forward Edge-AI for Summer 2021. I'm seeking opportunities for internship/co-op positions for the coming Fall Semester as well. I am passionate about developing all kinds of software from machine learning to game design. I am most skilled in Java, C++, Python, and Full-Stack application development.
+management. Some of my hobbies include music and rock climbing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Academically I've studied Computer Science 1, Discrete Mathematics 1, and Introduction to Computer Science, covering various subjects such as Agile Development, C++,    and Software Life Cycles
+📘 Ive also studied Calculus I & II, Physics I, and Rhetoric where I researched ethical applications of Artificial Intelligence.
+💻 I'm most experienced with `C++`, `Java`, `Python`, `React`, `Node`, and `HTML/CSS`.  
+
+✉️ Contact me at gyaniaru@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/arugyani)!  
+
+![Aru's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AruGyani&show_icons=true&hide_border=true&count_private=true&hide=stars)
