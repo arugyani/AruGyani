@@ -8,7 +8,7 @@ management. Some of my hobbies include piano and tennis.
 
 📚 Academically I've studied Computer Science 1, Discrete Mathematics 1, and Introduction to Computer Science, covering various subjects such as Agile Development, C++, and Software Life Cycles
 
-📘 Ive also studied Calculus I & II, Physics I, and Rhetoric where I researched ethical applications of Artificial Intelligence.
+📘 I've also studied Calculus I & II, Physics I, and Rhetoric where I researched ethical applications of Artificial Intelligence.
 
 💻 I'm most experienced with `C++`, `Java`, `Python`, `React`, `Node`, and `HTML/CSS`.  
 
