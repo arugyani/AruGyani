@@ -2,7 +2,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AruGyani&color=blue&label=Profile+Views)
 
 I'm currently studying Computer Science at UT Dallas and an Artificial Intelligence Intern at Forward Edge-AI for Summer 2021. I'm seeking opportunities for internship/co-op positions for the coming Fall Semester as well. I am passionate about developing all kinds of software from machine learning to game design. I am most skilled in Java, C++, Python, and Full-Stack application development.
-management. Some of my hobbies include music and rock climbing.
+management. Some of my hobbies include piano and tennis.
 
 ---
 
