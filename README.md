@@ -6,12 +6,12 @@ Some of my hobbies include piano and tennis.
 
 ---
 
-📚 Academically I've studied Computer Science 1, Discrete Mathematics 1, and Introduction to Computer Science, covering various subjects such as Agile Development, C++, and Software Life Cycles
+📚 Academically I've studied Computer Science 1 & 2, Discrete Mathematics 1 & 2, as well as Probability & Statistics for Computer Science. I've covered various other subjects such as Agile Development, C++, and Software Life Cycles.
 
 📘 I've also studied Calculus I & II, Physics I, and Rhetoric where I researched ethical applications of Artificial Intelligence.
 
 💻 I'm most experienced with `C++`, `Java`, `Python`, `React`, `Node`, and `HTML/CSS`.  
 
-✉️ Contact me at gyaniaru@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/arugyani)!  
+✉️ Contact me at gyaniaru@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/arugyani)! Check out my [website](https://aru.gyani.com)!
 
 ![Aru's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AruGyani&show_icons=true&hide_border=true&count_private=true&hide=stars)
