@@ -8,7 +8,7 @@ Some of my hobbies include piano and tennis.
 
 📚 Academically I've studied Computer Science 1 & 2, Discrete Mathematics 1 & 2, as well as Probability & Statistics for Computer Science. I've covered various other subjects such as Agile Development, C++, and Software Life Cycles.
 
-📘 I've also studied Calculus I & II, Linear Algebra, and Computer Architecture, Data Structures & Algorithms, and Systems Programming in UNIX.
+📘 I've also studied Calculus I & II, Linear Algebra, and Computer Architecture, Data Structures & Algorithms, and Systems Programming in UNIX. I recently completed courses such as Digital Logic, and Programming Language Paradigms.
 
 💻 I'm most experienced with `C++`, `Java`, `Python`, `React`, `Node`, and `HTML/CSS`.  
 
