@@ -42,7 +42,9 @@ I am an (*almost graduated*) computer science student & full-stack developer try
 <p>
 When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎
 
-<img src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+ <a href="https://monkeytype.com/profile/gyani">
+   <img src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-lbpb.svg" alt="My Monkeytype profile" />
+ </a>
 
 </p>
 
