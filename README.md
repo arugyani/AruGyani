@@ -38,18 +38,20 @@ I am an (*almost graduated*) computer science student & full-stack developer try
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# About Me
-<p>
-When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎
+## What am I up to?
+<img align="right" width="400" src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 
- <a href="https://monkeytype.com/profile/gyani">
-   <img src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-lbpb.svg" alt="My Monkeytype profile" />
- </a>
-
+<p align="left">
+	I currently do not have any active projects... :slightly_frowning_face:
 </p>
 
-<p align="center">
+<p align="left">
 	<b>Interested in working together?
 		<a href="https://linkedin.com/in/arugyani/">Let's connect!</a>
   	</b>
+</p>
+
+<br/><br/>
+<p align="right">
+	When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎 <br/>
 </p>
