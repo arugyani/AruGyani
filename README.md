@@ -3,6 +3,7 @@
 I am an (*almost graduated*) computer science student & full-stack developer trying to create unique web experiences!
 
 <img align='right' src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="300" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 
 :man_student: Student @ [**University of Texas at Dallas**][utd]  
 :man_technologist: 2x SWE Intern @ [**NCR Corporation**][ncr]  
@@ -39,8 +40,6 @@ I am an (*almost graduated*) computer science student & full-stack developer try
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## What am I up to?
-<img align="right" width="400" src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
-
 <p align="left">
 	I currently do not have any active projects... :slightly_frowning_face:
 </p>
