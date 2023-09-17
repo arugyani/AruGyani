@@ -41,6 +41,9 @@ I am an (*almost graduated*) computer science student & full-stack developer try
 # About Me
 <p>
 When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎
+
+<img src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+
 </p>
 
 <p align="center">
