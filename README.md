@@ -10,19 +10,7 @@
 When I'm not working on a new project, I enjoy playing piano 🎹 and writing ✍🏽
 
 ### 📚	My relevant coursework (*and favorite classes*)
-- 🖥️ <u>Computer Science</u>: 
-	- 2020 - 2021:
-		- **Data Structures & Algorithms**
-		- **Discrete Mathematics 1 & 2**
-		- Computer Architecture
-		- Systems Programming in Unix
-	- 2022 - Present:
-		- **Algorithms Analysis & Design**
-		- Digital Logic & Computer Design (Boolean Algebra & Logic Circuits)
-		- Programming Language Paradigms (Lisp, Racket, Haskell, etc.)
-		- **Operating Systems** & Database Systems
-		- **Computer Vision**
-		- Automata Theory
+- 🖥️ <u>Computer Science</u>: **Data Structures & Algorithms**, **Discrete Mathematics 1 & 2**, Computer Architecture, , **Algorithms Analysis & Design**, Digital Logic & Computer Design, Programming Language Paradigms, **Operating Systems**, Database Systems, **Computer Vision**, Automata Theory
 
 - 📘 <u>Mathematics</u>: Calculus I & II, Linear Algebra
 
