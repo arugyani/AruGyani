@@ -39,10 +39,9 @@ I am an (*almost graduated*) computer science student & full-stack developer try
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # About Me
-<img src="https://monkey-widget.vercel.app/api/user/gyani" alt="monkey-widget"/>
-When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎&ensp;
-
-
+<p>
+When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎
+</p>
 
 <p align="center">
 	<b>Interested in working together?
