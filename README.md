@@ -50,8 +50,3 @@ I am an (*almost graduated*) computer science student & full-stack developer try
 		<a href="https://linkedin.com/in/arugyani/">Let's connect!</a>
   	</b>
 </p>
-
-<br/><br/>
-<p align="right">
-	When I'm not working on a new project, I enjoy playing piano and doing typing tests 😎 <br/>
-</p>
