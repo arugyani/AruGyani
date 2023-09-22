@@ -1,6 +1,6 @@
 # Hi, I'm Aru <img src="https://media.giphy.com/media/KfSOWTWvN03AktOl5Q/giphy.gif" width="50"></h1>
 
-I am an (*almost graduated*) computer science student & full-stack developer trying to create unique web experiences!
+I am a (*almost graduated*) computer science student & full-stack developer trying to create unique web experiences!
 
 <img align='right' src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="300" />
 
