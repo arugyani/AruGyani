@@ -1,6 +1,6 @@
 # Hi, I'm Aru <img src="https://media.giphy.com/media/KfSOWTWvN03AktOl5Q/giphy.gif" width="50"></h1>
 
-I am a (*almost graduated*) computer science student & full-stack developer trying to create unique web experiences!
+cs undergrad & dev
 
 <img align='right' src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="300" />
 
@@ -37,16 +37,3 @@ I am a (*almost graduated*) computer science student & full-stack developer tryi
 ![Yarn](https://img.shields.io/badge/-Yarn-CB3837?style=for-the-badge&logo=yarn&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## What am I up to?
-<img align="right" src="https://raw.githubusercontent.com/AruGyani/AruGyani/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
-
-<p align="left">
-	I currently do not have any active projects... :slightly_frowning_face:
-</p>
-
-<p align="left">
-	<b>Interested in working together?
-		<a href="https://linkedin.com/in/arugyani/">Let's connect!</a>
-  	</b>
-</p>
