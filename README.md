@@ -1,6 +1,6 @@
 # Hi, I'm Aru 👋🏽
 
-I'm a soon-to-be computer science new grad and enjoy building interesting projects in my free time.
+I'm a computer science new grad and enjoy building interesting projects in my free time.
 
 <ins>Some of my favorite projects:</ins>
 - 🛒 [shopIQ - a high-consideration research tool](https://github.com/arugyani/shopIQ)
