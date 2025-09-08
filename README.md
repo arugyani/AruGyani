@@ -1,1 +1,2 @@
-## [gyani.dev](https://gyani.dev)
+[gyani.dev](https://gyani.dev)
+
